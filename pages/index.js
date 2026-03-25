@@ -1,6 +1,8 @@
 import products from "../data/products";
 import styles from "../styles/Home.module.css";
 
+var x = 1
+
 export default function Home() {
   return (
     <div className={styles.page}>
